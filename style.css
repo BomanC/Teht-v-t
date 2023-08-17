@@ -39,6 +39,7 @@ article{
     margin-right: 5px;
     left: 50px;
     top: 358px;
+    border: 1px solid black;
 }
 
 aside{
@@ -51,6 +52,7 @@ aside{
     margin-left: 5px;
     left: 714px;
     top: 358px;
+    border: 1px solid black;
 }
 
 footer{
