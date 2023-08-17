@@ -27,7 +27,7 @@ article{
     background: #1f7abe;
     width: 664px;
     height: 271px;
-    margin-right: 2px;
+    margin-right: 5px;
     left: 50px;
     top: 358px;
 }
@@ -36,13 +36,13 @@ aside{
     background: #1f7abe;
     width: 260px;
     height: 271px;
-    margin-left: 2px;
+    margin-left: 5px;
     left: 714px;
     top: 358px;
 }
 
 footer{
-    background: #d17a1a;
+    background: #69bb62;
     width: 924px;
     height: 70px;
     left: 50px;
