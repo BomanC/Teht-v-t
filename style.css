@@ -1,1 +1,47 @@
+*{
+    font-family: 'Courier New', Courier;
+    font-size: 24pt;
+    position: absolute;
+    border: none;
+    text-align: center;
+}
 
+header {
+    background: #69bb62;
+    width: 924px;
+    height: 200px;
+    left: 50px;
+    top: 50px;
+}
+
+nav{
+    background: #d17a1a;
+    width: 924px;
+    height: 70px;
+    left: 50px;
+    top: 269px;
+}
+
+article{
+    background: #1f7abe;
+    width: 664px;
+    height: 271px;
+    left: 50px;
+    top: 358px;
+}
+
+aside{
+    background: #1f7abe;
+    width: 260px;
+    height: 271px;
+    left: 714px;
+    top: 358px;
+}
+
+footer{
+    background: #69bb62;
+    width: 924px;
+    height: 70px;
+    left: 50px;
+    top: 648px;
+}
