@@ -1,5 +1,5 @@
 *{
-    font-family: 'Courier New', Courier;
+    font-family: 'Courier New', 'Courier New', Courier, monospace;
     font-size: 24pt;
     position: absolute;
     border: none;
@@ -10,7 +10,7 @@
 }
 
 header {
-    background: #d17a1a;
+    background: #69bb62;
     width: 924px;
     height: 200px;
     left: 50px;
