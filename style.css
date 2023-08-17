@@ -8,6 +8,9 @@
 }
 
 header {
+    font-family: 'Courier New', Courier;
+    font-size: 24pt;
+    text-align: center;
     background: #69bb62;
     width: 924px;
     height: 200px;
@@ -16,6 +19,9 @@ header {
 }
 
 nav{
+    font-family: 'Courier New', Courier;
+    font-size: 24pt;
+    text-align: center;
     background: #d17a1a;
     width: 924px;
     height: 70px;
@@ -24,6 +30,9 @@ nav{
 }
 
 article{
+    font-family: 'Courier New', Courier;
+    font-size: 24pt;
+    text-align: center;
     background: #1f7abe;
     width: 664px;
     height: 271px;
@@ -33,6 +42,9 @@ article{
 }
 
 aside{
+    font-family: 'Courier New', Courier;
+    font-size: 24pt;
+    text-align: center;
     background: #1f7abe;
     width: 260px;
     height: 271px;
@@ -42,6 +54,9 @@ aside{
 }
 
 footer{
+    font-family: 'Courier New', Courier;
+    font-size: 24pt;
+    text-align: center;
     background: #69bb62;
     width: 924px;
     height: 70px;
